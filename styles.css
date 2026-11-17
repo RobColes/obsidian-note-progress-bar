@@ -1,0 +1,25 @@
+.npb-container {
+  margin: 0.5em 0;
+}
+
+.npb-label {
+  font-size: var(--font-text-size);
+  color: var(--text-muted);
+  margin-bottom: 4px;
+}
+
+.npb-track {
+  width: 100%;
+  height: var(--font-text-size);
+  background: var(--background);
+  border: 1px solid var(--interactive-accent);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.npb-fill {
+  height: 100%;
+  background: var(--interactive-accent);
+  border-radius: 999px;
+  transition: width 0.2s ease;
+}

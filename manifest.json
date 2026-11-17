@@ -1,0 +1,10 @@
+{
+  "id": "note-progress-bar",
+  "name": "Note Progress Bar",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Whole-note checkbox progress bar via a code block, with configurable checked/unchecked characters.",
+  "author": "Rob Coles",
+  "authorUrl": "https://robcoles.net",
+  "isDesktopOnly": false
+}
